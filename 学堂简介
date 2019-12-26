@@ -1,0 +1,80 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>实物学堂</title>
+        <link rel="stylesheet" href="wcs.css" />
+  </head>
+
+  <body>
+
+    <nav id="navbar">
+      <header>实物学堂</header>
+      <ul>
+        <a class="nav-link" href="#Introduction" rel="internal"><li>简介</li></a>
+        <a class="nav-link" href="#What_you_should_already_know" rel="internal"><li>愿景</li></a>
+        <a class="nav-link" href="#JavaScript_and_Java" rel="internal"><li>专业技能</li></a>
+        <a class="nav-link" href="#Hello_world" rel="internal"><li>课程目标</li></a>
+        <a class="nav-link" href="#Variables" rel="internal"><li>毕业出路</li></a>
+        <a class="nav-link" href="#Declaring_variables" rel="internal"><li>教学亮点</li></a>
+        <a class="nav-link" href="#Variable_scope" rel="internal"><li>社会声誉</li></a>
+      </ul>
+    </nav>
+    <main id="main-doc">
+      <section class="main-section" id="Introduction">
+        <header>简介</header>
+        <article>
+          <p>15-18岁农民工子女职业教育公益项目
+
+2018年创办于北京 
+
+非学历、全日制，学制3年</p>
+        </artice>
+        </section>
+      <section class="main-section" id="What_you_should_already_know">
+        <header>愿景</header>
+        <article>
+          <p>培养珍贵的普通人</p>
+          </artice>
+        </section>
+      <section class="main-section" id="JavaScript_and_Java">
+        <header>专业技能</header>
+        <article>
+          <p>计算机与互联网（编程、运营方向）；文化创意（手工艺方向）。</p>
+        </article>
+        </section>
+      <section class="main-section" id="Hello_world">
+        <header>课程目标</header>
+        <article>
+          健康身心（诚实、勇敢、爱的品质，掌握常用知识与技能）；良好职业素养（具备“入职三个月的职场新人”素养）；过硬专业技能（在互联网时代获得体面工作机会）。
+        </article>
+        </section>
+      <section class="main-section" id="Variables">
+        <header>毕业出路</header>
+        <article>
+          对接企业实习就业；对接自考大学、成人大专、国外大学等其他继续教育机会。
+        </article>
+        </section>
+      <section class="main-section" id="Declaring_variables">
+        <header>教学亮点</header>
+        <article>
+          对学生充足的爱、支持与信任；给每个学生做个性化教学，有底气让每个孩子都学会；让每个孩子更自信。
+        </article>
+        </section>
+      <section class="main-section" id="Variable_scope">
+        <header>师资力量</header>
+        <article>
+          1:1师生比；全部重点本科以上学历，半数以上硕士、博士、博士后；大学教授、企业CEO、艺术家、各行业一线资深从业人员参与教学设计和执教。
+        </article>
+        </section>
+      <section class="main-section" id="Global_variables">
+        <header>社会声誉</header>
+        <article>
+          财新、新京报、中国青年报、北京广播电台等主流媒体报道；清华大学等邀请公开演讲；西部阳光基金会、银杏基金会等基金会资助；十余家知名教育机构支持。
+        </article>
+        </section>
+    </main>
+  </body>
+</html>
+
